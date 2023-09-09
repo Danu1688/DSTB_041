@@ -1,7 +1,7 @@
 proxies:
 - name: AgusMail_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 4d531108-f488-4e74-abb9-ac6157bafa87
   udp: true
@@ -14,7 +14,7 @@ proxies:
       Host: danu529.foryou-ssh.my.id
 - name: Danu39_LiveHerza41a
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 87b7e09c-99e2-4289-baf7-d3a194e4d90a
   udp: true
@@ -27,7 +27,7 @@ proxies:
       Host: herza2.myserver-prem.cloud
 - name: Danu39_LiveHerza41b
   type: trojan
-  server: 172.67.139.111
+  server: circles.asia
   port: 443
   password: 87b7e09c-99e2-4289-baf7-d3a194e4d90a
   udp: true
