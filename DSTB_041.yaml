@@ -12,6 +12,19 @@ proxies:
     path: /trojan-ws
     headers:
       Host: danu529.foryou-ssh.my.id
+- name: AgusMailDo2_LiveDO_2
+  type: trojan
+  server: beacon.liveon.id
+  port: 443
+  password: 3203310c-c52b-4019-9f41-21f3ec618d9e
+  udp: true
+  sni: sgdo2.myserver-prem.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /xraytrojanws
+    headers:
+      Host: sgdo2.myserver-prem.xyz
 - name: TrojanWsSvr-Live_1
   type: trojan
   server: circles.asia
